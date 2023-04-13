@@ -2,6 +2,8 @@
 
 This project uses the YOLOv_8 (You Only Look Once) object detection algorithm to detect guns from security camera footage. The data for this project was collected from 70 YouTube videos of crime activities and annotated using Roboflow. Please note that this is a relatively small dataset, and the model could improve significantly with more data.
 
+![alt text](https://github.com/dazmashaly/Gun-Detection/blob/main/images/frame3960_jpg.rf.afe066efa9a67257026662d30c4870e5.jpg?raw=true)
+
 ## Here are a few use cases for this project:
 
 ### Public Safety Surveillance:
@@ -21,3 +23,4 @@ Implement the model into airport surveillance systems for enhanced detection of 
 
 ## Dataset :
 https://universe.roboflow.com/dfyv7/guns-detection-security-camera-o62yq
+
